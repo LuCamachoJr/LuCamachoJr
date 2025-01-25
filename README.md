@@ -8,44 +8,67 @@ I am a cybersecurity student with a passion for hands-on learning and practical 
 - Developing tools and scripts to enhance cybersecurity operations.
 
 ### Skills:
-- Penetration Testing
+- Penetration Testing (e.g., Burp Suite, Metasploit)
 - Vulnerability Management
 - Incident Response
 - Digital Forensics
+- Network Security
+- Python and Bash scripting (e.g., Wireshark)
+- Incident Response
+- Vulnerability Management
+- Digital Forensics
 - Python and Bash scripting
 
-Feel free to explore my repositories as I document my learning journey and share future projects.
+Feel free to explore my repositories, including the CRUD Application in JavaScript, as I document my learning journey and share future projects. My coding projects range from foundational web applications to scripts designed to address real-world cybersecurity challenges, showcasing both creativity and technical problem-solving skills.
 
-<!-- I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes! -->
+### Featured Project: CRUD Application in JavaScript 🔄
+- [Repository](https://github.com/LuCamachoJr/CRUD-Application-in-JavaScript)
+- [Live Demo](https://lucamachojr.github.io/CRUD-Application-in-JavaScript/)
 
+This project demonstrates a fully functional CRUD application built with JavaScript. It highlights:
+- DOM manipulation
+- RESTful operations
+- Frontend logic implementation
 
-## 🛡️ Vulnerability Management Projects
+#### Relevance to Cybersecurity
+This project forms a foundation for understanding vulnerabilities in web applications, such as:
+- Cross-Site Scripting (XSS)
+- SQL Injection (SQLi)
+- Authentication and Session Management flaws
 
-- **This repository contains labs and exercises related to Vulnerability Management, currently under active development.**
-<!-- - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** -->
+### C++ Programming Showcase 🔧
+- [Repository](https://github.com/LuCamachoJr/CS115_Project_C++)
+- [Run Online](https://www.programiz.com/online-compiler/565QVaYc0oVyV)
 
-## Threat Hunting and Security Operations 🛡️🕵️
+This repository demonstrates foundational skills in C++ programming developed during coursework at Colorado Technical University. It highlights:
+- Core programming concepts, including control structures, classes, objects, and pointers.
+- Practical applications for problem-solving and secure coding practices.
 
-## Overview
+#### Relevance to Cybersecurity
+C++ is vital for secure software development and understanding low-level system operations. This project demonstrates:
+- Buffer overflow prevention techniques.
+- Secure memory management.
+- Building a foundation for system-level programming and cybersecurity tool development.
+
+### Vulnerability Management Projects 🛡️
+This repository contains labs and exercises related to Vulnerability Management, currently under active development.
+
+### Threat Hunting and Security Operations 🛡️🕵️
+
+#### Overview
 This repository includes tools and strategies for proactive threat hunting 🕵️ and streamlining security operations 🛠️. Focus areas include:
+
 - Identifying and mitigating Indicators of Compromise (IOCs) 🔍
 - Real-time threat detection and response 🚨
 - Enhancing network defense mechanisms 🌐
 - Developing operational workflows 📊
 
+#### Threat Hunting Scenario: Tor Browser Usage
+This exercise focuses on analyzing Tor browser activity, detecting potential misuse, and enhancing monitoring capabilities to identify threats.
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/LuCamachoJr/threat-hunting-scenario-tor)**
+Connect: [LinkedIn](https://linkedin.com/in/lcamachojr) 
+<!-- - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** -->
 
-<hr/>
-Connect: [LinkedIn](https://linkedin.com/in/lcamachojr) | [Portfolio](https://your-portfolio.com)
-<!-- ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/lcamachojr -->
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
