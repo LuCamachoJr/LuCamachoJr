@@ -37,7 +37,7 @@ This project forms a foundation for understanding vulnerabilities in web applica
 - Authentication and Session Management flaws
 
 ### C++ Programming Showcase 🔧
-- [Repository](https://github.com/LuCamachoJr/CS115_Project_C++)
+- [Repository](https://github.com/LuCamachoJr/cpp-objects-and-pointers)
 - [Run Online](https://www.programiz.com/online-compiler/1BTYJoHZfFvJo)
 
 This repository demonstrates foundational skills in C++ programming developed during coursework at Colorado Technical University. It highlights:
