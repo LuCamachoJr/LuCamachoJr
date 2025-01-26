@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/lcamachojr/">Luis Camacho Jr</a> | Showcasing Cybersecurity Projects and Practical Learning 🛡️🔍
 
-I am a cybersecurity student with a passion for hands-on learning and practical problem-solving. Currently pursuing an M.S. in Cybersecurity and Information Assurance at Western Governors University, I am actively building my expertise through labs, cyber ranges, and self-directed projects.
+I am a cybersecurity student passionate about hands-on learning and practical problem-solving. Currently pursuing an M.S. in Cybersecurity and Information Assurance at Western Governors University, I am actively building my expertise through labs, cyber ranges, and self-directed projects.
 
 ### What I’m Working On:
 - Strengthening my skills in penetration testing and digital forensics.
@@ -19,7 +19,7 @@ I am a cybersecurity student with a passion for hands-on learning and practical 
 - Digital Forensics
 - Python and Bash scripting
 
-Feel free to explore my repositories, including the CRUD Application in JavaScript, as I document my learning journey and share future projects. My coding projects range from foundational web applications to scripts designed to address real-world cybersecurity challenges, showcasing both creativity and technical problem-solving skills.
+Feel free to explore my repositories, including the CRUD Application in JavaScript, as I document my learning journey and share future projects. My coding projects range from foundational web applications to scripts designed to address real-world cybersecurity challenges, showcasing creativity and technical problem-solving skills.
 
 ### Featured Project: CRUD Application in JavaScript 🔄
 - [Repository](https://github.com/LuCamachoJr/CRUD-Application-in-JavaScript)
@@ -36,9 +36,12 @@ This project forms a foundation for understanding vulnerabilities in web applica
 - SQL Injection (SQLi)
 - Authentication and Session Management flaws
 
-### C++ Programming Showcase 🔧
+### C++ Foundations: Cybersecurity and Software Development 🔧
+### View the GitHub Page
+The GitHub Pages for this project provide detailed information about the objectives, key features, and a link to a live demo:
+- [C++ Foundations GitHub Page](https://lucamachojr.github.io/cpp-objects-and-pointers/)
 - [Repository](https://github.com/LuCamachoJr/cpp-objects-and-pointers)
-- [Run Online](https://www.programiz.com/online-compiler/1BTYJoHZfFvJo)
+<!-- - [Run Online](https://www.programiz.com/online-compiler/1BTYJoHZfFvJo) -->
 
 This repository demonstrates foundational skills in C++ programming developed during coursework at Colorado Technical University. It highlights:
 - Core programming concepts, including control structures, classes, objects, and pointers.
@@ -51,7 +54,7 @@ C++ is vital for secure software development and understanding low-level system 
 - Building a foundation for system-level programming and cybersecurity tool development.
 
 ### Vulnerability Management Projects 🛡️
-This repository contains labs and exercises related to Vulnerability Management, currently under active development.
+This repository contains labs and exercises on vulnerability management that are currently under active development.
 
 ### Threat Hunting and Security Operations 🛡️🕵️
 
