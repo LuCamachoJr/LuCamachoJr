@@ -1,77 +1,21 @@
-# <a href="https://www.linkedin.com/in/lcamachojr/">Luis Camacho Jr</a> | Showcasing Cybersecurity Projects and Practical Learning 🛡️🔍
+# Luis Camacho Jr. — Junior SOC/DFIR
 
-I am a cybersecurity student passionate about hands-on learning and practical problem-solving. Currently pursuing an M.S. in Cybersecurity and Information Assurance at Western Governors University, I am actively building my expertise through labs, cyber ranges, and self-directed projects.
+I investigate alerts, analyze memory/disk/network artifacts, and turn evidence into timelines and detections.
 
-### What I’m Working On:
-- Strengthening my skills in penetration testing and digital forensics.
-- Completing certifications, including Security+ and PenTest+.
-- Developing tools and scripts to enhance cybersecurity operations.
+**Tools:** Volatility • FTK Imager • Zeek • RITA/AC-Hunter • Splunk  
+**Focus:** Memory & disk forensics • Network forensics • Threat hunting • MITRE ATT&CK mapping
 
-### Skills:
-- Penetration Testing (e.g., Burp Suite, Metasploit)
-- Vulnerability Management
-- Incident Response
-- Digital Forensics
-- Network Security
-- Python and Bash scripting (e.g., Wireshark)
-- Incident Response
-- Vulnerability Management
-- Digital Forensics
-- Python and Bash scripting
+## Portfolio
+- **DFIR-Labs** → cases, IOCs, ATT&CK, and operational detections (Splunk/Sigma)  
+  https://github.com/LuCamachoJr/DFIR-Labs
+- **Latest case:** *Windows Memory Forensics — Suspicious PowerShell Beaconing*  
+  PDF + notes: `DFIR-Labs/cases/2025-08-22-WinMem-PowerShell-Beaconing/`
 
-Feel free to explore my repositories, including the CRUD Application in JavaScript, as I document my learning journey and share future projects. My coding projects range from foundational web applications to scripts designed to address real-world cybersecurity challenges, showcasing creativity and technical problem-solving skills.
+## Detections
+- Splunk searches: `DFIR-Labs/detections/splunk/`  
+- Sigma rules: `DFIR-Labs/detections/sigma/`
 
-### Featured Project: CRUD Application in JavaScript 🔄
-- [Repository](https://github.com/LuCamachoJr/CRUD-Application-in-JavaScript)
-- [Live Demo](https://lucamachojr.github.io/CRUD-Application-in-JavaScript/)
-
-This project demonstrates a fully functional CRUD application built with JavaScript. It highlights:
-- DOM manipulation
-- RESTful operations
-- Frontend logic implementation
-
-#### Relevance to Cybersecurity
-This project forms a foundation for understanding vulnerabilities in web applications, such as:
-- Cross-Site Scripting (XSS)
-- SQL Injection (SQLi)
-- Authentication and Session Management flaws
-
-### C++ Foundations: Cybersecurity and Software Development 🔧
-### View the GitHub Page
-The GitHub Pages for this project provide detailed information about the objectives, key features, and a link to a live demo:
-- [C++ Foundations GitHub Page](https://lucamachojr.github.io/cpp-objects-and-pointers/)
-- [Repository](https://github.com/LuCamachoJr/cpp-objects-and-pointers)
-<!-- - [Run Online](https://www.programiz.com/online-compiler/1BTYJoHZfFvJo) -->
-
-This repository demonstrates foundational skills in C++ programming developed during coursework at Colorado Technical University. It highlights:
-- Core programming concepts, including control structures, classes, objects, and pointers.
-- Practical applications for problem-solving and secure coding practices.
-
-#### Relevance to Cybersecurity
-C++ is vital for secure software development and understanding low-level system operations. This project demonstrates:
-- Buffer overflow prevention techniques.
-- Secure memory management.
-- Building a foundation for system-level programming and cybersecurity tool development.
-
-### Vulnerability Management Projects 🛡️
-This repository contains labs and exercises on vulnerability management that are currently under active development.
-
-### Threat Hunting and Security Operations 🛡️🕵️
-
-#### Overview
-This repository includes tools and strategies for proactive threat hunting 🕵️ and streamlining security operations 🛠️. Focus areas include:
-
-- Identifying and mitigating Indicators of Compromise (IOCs) 🔍
-- Real-time threat detection and response 🚨
-- Enhancing network defense mechanisms 🌐
-- Developing operational workflows 📊
-
-#### Threat Hunting Scenario: Tor Browser Usage
-This exercise focuses on analyzing Tor browser activity, detecting potential misuse, and enhancing monitoring capabilities to identify threats.
-
-Connect: [LinkedIn](https://linkedin.com/in/lcamachojr) 
-<!-- - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** -->
-
+## Connect
+LinkedIn: https://www.linkedin.com/in/lcamachojr/
 
 
